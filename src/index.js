@@ -28,7 +28,7 @@ class Game {
          { id: "24", city: "Загреб", country: "Хорватія", imageCity: "./src/img/city/zagreb.jpg", imageCountry: "./src/img/country/croatia.jpg" },
          { id: "24", city: "Прага", country: "Чехія", imageCity: "./src/img/city/moravia.jpg", imageCountry: "./src/img/country/czech_republic.jpg" },
          { id: "24", city: "Стокгольм", country: "Швеція", imageCity: "./src/img/city/stockholm.jpg", imageCountry: "./src/img/country/sweden.png" },
-         { id: "24", city: "Берлін", country: "Німетчина", imageCity: "./src/img/city/berlin.jpg", imageCountry: "./src/img/country/germany.jpg" },
+         { id: "24", city: "Берлін", country: "Німеччина", imageCity: "./src/img/city/berlin.jpg", imageCountry: "./src/img/country/germany.jpg" },
          { id: "25", city: "Париж", country: "Франція", imageCity: "./src/img/city/paris.jpg", imageCountry: "./src/img/country/france.jpg" }
       ];
 
